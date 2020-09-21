@@ -1,0 +1,2 @@
+(this["webpackJsonpbotsite-dashboard-2"]=this["webpackJsonpbotsite-dashboard-2"]||[]).push([[17],{244:function(e,t,n){"use strict";n.r(t);var a=n(0),s=n.n(a),o=n(21),u=n(4),c=Object(o.connect)((function(e){return{userLoggedIn:!!e.user.data&&!!e.user.data.data}}))((function(e){var t=e.userLoggedIn,n=Object(u.f)();return Object(a.useEffect)((function(){t?n.goBack():n.push("/login")}),[t]),s.a.createElement("p",null,"Home Page")}));t.default=c}}]);
+//# sourceMappingURL=17.7ae585cb.chunk.js.map

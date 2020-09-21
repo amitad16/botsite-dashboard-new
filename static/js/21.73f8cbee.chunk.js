@@ -1,0 +1,2 @@
+(this["webpackJsonpbotsite-dashboard-2"]=this["webpackJsonpbotsite-dashboard-2"]||[]).push([[21],{157:function(e,t,a){"use strict";var d=a(20);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var s=d(a(0)),h=(0,d(a(22)).default)(s.default.createElement("path",{d:"M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"}),"Warning");t.default=h}}]);
+//# sourceMappingURL=21.73f8cbee.chunk.js.map
